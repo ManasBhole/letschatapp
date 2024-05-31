@@ -1,2 +1,1 @@
-# letschatapp
-This app resembles whatsapp application
+This app is similar to whatsapp.
